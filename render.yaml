@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: scratch-sm-y
+    name: samiyuti-proxy
     env: python
     region: Oregon
     plan: free
