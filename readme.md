@@ -1,4 +1,4 @@
-<a href="https://rvlt.gg/64STKP7N">
+https://rvlt.gg/64STKP7N
 さみゆちが色々いじったサイト
 偽装ページが違うやつ  
 ブログをブロックされるとき用  
